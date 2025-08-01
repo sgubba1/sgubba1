@@ -5,7 +5,7 @@
 🌱 I’m passionate about creating technical solutions that drive social good and sustainability. Whether it’s using machine learning to uncover insights about climate change or developing tools that support nonprofits and community initiatives, I love leveraging technology to make a positive impact for both people and the planet.
 
 ## 🔭 Projects:
-Updating this soon! Stay tuned.
+Updating this soon!
 
 ## 🔨 Tech Stack:
 - Programming Languages: Java, R, Python, Matlab, Dart, JavaScript, TypeScript, HTML, CSS, C, OCaml
